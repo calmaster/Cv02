@@ -1,5 +1,8 @@
 "Hello world" 
 new line
 third line
+<<<<<<< HEAD
 Dalsi
 5
+=======
+>>>>>>> parent of c93f3a2... Fourth
